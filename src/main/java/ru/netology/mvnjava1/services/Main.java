@@ -16,7 +16,7 @@ public class Main {
         post.patronymic = "Андреевич";
         post.phone = "+7(974)-444-55-66";
         post.surname = "Андреев";
-        post.subscription = "true";
+        post.subscription = true;
 
 
     }
